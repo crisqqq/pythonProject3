@@ -1,4 +1,4 @@
-import dashscope
+
 import os
 import pandas as pd
 from langchain_community.llms import Tongyi
